@@ -10,3 +10,17 @@ Class: It is a collection of similar types of objects.
 Encapsulation:It is the process by which data (variables) and the code that acts upon them (methods) are integrated as a single unit.
 
 Inheritance: When one class applies the properties of other classes
+
+
+23 JUNE 2023
+Multiple Inheritance 
+syntax:
+interface <name>{
+    variable declaration;
+    method declaration;
+}
+example:
+interface Area{
+    final static float pi=3.14;
+    void show();
+}
